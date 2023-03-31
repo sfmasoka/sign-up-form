@@ -40,6 +40,7 @@
 .form-input-1{
     background-color: white;
     padding: 20px;
+    box-shadow: 5px 5px 5px #777777;
 }
 
 h2{
@@ -65,6 +66,8 @@ input{
     height: 25px;
     width: 250px;
     margin-top: 8px;
+    border: 1px solid grey;
+    font-size: 18px;
 }
 
 .form-label{
